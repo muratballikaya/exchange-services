@@ -14,3 +14,5 @@ To list the calculations, please use .../exchange/listconversion api.
 * at least one of id or date must be typed.
 https://exchangeservice.herokuapp.com/exchange/listconversion?id=1&date=29-04-2020&page=0&size=10
 
+Centralized logging is managed by Heroku. I am currently using LogDNA.
+
